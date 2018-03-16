@@ -2,7 +2,6 @@
 -- #
 -- problem description http://rosalind.info/problems/prot/
 --
-local LENGTH = 3
 local table = {
   UUU = 'F', UCU = 'S', UAU = 'Y', UGU = 'C',
   UUC = 'F', UCC = 'S', UAC = 'Y', UGC = 'C',
